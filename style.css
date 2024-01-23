@@ -1,0 +1,7 @@
+.content-accordeon {
+    display: none;
+}
+
+.content-accordeon.show{
+    display: block !important;
+}
